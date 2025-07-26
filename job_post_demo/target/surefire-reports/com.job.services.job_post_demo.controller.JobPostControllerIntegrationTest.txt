@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.job.services.job_post_demo.controller.JobPostControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.751 s -- in com.job.services.job_post_demo.controller.JobPostControllerIntegrationTest
